@@ -385,6 +385,7 @@ export default function BlobCursor({ blobType = 'circle', fillColor = '#00f0ff' 
   cursor: default;
 }`
   },
+  
 
 
   // ! WAVE-TEXT ------------------------------------------------------------------------
